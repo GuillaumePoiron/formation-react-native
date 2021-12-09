@@ -1,0 +1,17 @@
+{
+    "data": {
+        "solde": 0.0,
+    },
+    "transactions": [
+        {"id":1, "price": 1200, "libelle": "Salaire Afone"},
+        {"id":2, "price": -12, "libelle": "Bière Délirium"},
+        {"id":3, "price": -78, "libelle": " Achat Chaussure"},
+        {"id":4, "price": -6, "libelle": "Boulangerie"},
+        {"id":5, "price": 12, "libelle": "Gain Loto"},
+        {"id":6, "price": 45, "libelle": "ransact1"},
+        {"id":7, "price": 27, "libelle": "ransact1"},
+        {"id":8, "price": -12, "libelle": "ransact1"},
+        {"id":9, "price": 8, "libelle": "ransact1"}
+
+    ]
+}

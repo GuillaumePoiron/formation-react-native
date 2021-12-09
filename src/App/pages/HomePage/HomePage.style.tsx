@@ -4,6 +4,7 @@ export const styles = StyleSheet.create({
   HomePage: {
     flex: 1,
     paddingVertical: 24,
+    backgroundColor: '#f5f6fa',
   },
   header: {
     alignItems: 'center',
@@ -19,7 +20,6 @@ export const styles = StyleSheet.create({
     },
     shadowOpacity: 0.6,
     shadowRadius: 1.5,
-    elevation: 50,
     shadowColor: 'black',
     padding: 3,
     width: '70%',
@@ -28,7 +28,7 @@ export const styles = StyleSheet.create({
     paddingHorizontal: 16,
     flexDirection: 'row',
     paddingVertical: 10,
-    justifyContent: 'space-between',
+    justifyContent: 'center',
   },
   container: {
     width: 300,
@@ -46,7 +46,6 @@ export const styles = StyleSheet.create({
     },
     shadowOpacity: 0.6,
     shadowRadius: 1.5,
-    elevation: 5,
     shadowColor: 'black',
   },
   solde: {
@@ -54,6 +53,6 @@ export const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: 'black',
     textAlign: 'center',
-    marginBottom: 8,
+    paddingBottom: 12,
   },
 });
